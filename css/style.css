@@ -1,0 +1,16 @@
+#center{
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+    background-color: aqua;
+    align-items: center;
+    display: flex;
+}
+
+#font {
+    font-family: "Sigmar", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
